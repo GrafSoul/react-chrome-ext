@@ -1,0 +1,24 @@
+{
+  "name": "react-chrome-ext",
+  "version": "1.0.0",
+  "description": "Example of a simple Chrome browser extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrafSoul/react-chrome-ext.git"
+  },
+  "author": "Dmitriy Zatulovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrafSoul/react-chrome-ext/issues"
+  },
+  "homepage": "https://github.com/GrafSoul/react-chrome-ext#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.5.5"
+  }
+}
